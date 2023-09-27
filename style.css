@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .bg{
+    display: flex;
+    justify-items: end;
+    width: 1280px;
+    height: 750px;
+    background: url('/Images/pexels-christina-morillo-1181467.jpg') rgba(0,0,0,0.8) ;
+    
+    object-fit: cover;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode:overlay ;
+} */
+
+input::placeholder {
+    
+    opacity: 1;
+    color:white;
+  }
+  
